@@ -6,8 +6,7 @@ package com.hf.mongo;
  */
 public class Mongotest1 {
     public static void main(String[] args) {
-        System.out.println("xxxxxx11122111111");
-
+        System.out.println("xxxxxx11122111144");
         System.out.println("xxxxx1144444111111");
     }
 }
