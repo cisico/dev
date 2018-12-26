@@ -8,6 +8,6 @@ public class Mongotest1 {
     public static void main(String[] args) {
         System.out.println("xxxxxx11122111188");
 
-        System.out.println("xxxxx2144444111144");
+        System.out.println("xxxxx1144444111144");
     }
 }
